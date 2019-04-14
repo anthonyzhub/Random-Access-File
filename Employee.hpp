@@ -16,9 +16,6 @@ private:
     
 public:
     
-    // Default constructor
-    //Employee();
-    
     // Setter methods
     void setID(int i);
     void setName(string n);
