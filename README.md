@@ -2,7 +2,7 @@
 
 Hi,
 
-This academic project was assigned to me as a Sophmore a few years ago, when I was enrolled in a course called Object Oriented Programming. This C++ program demonstrates my ability to read and write a random access file on a computer. Below, I have listed the requirements that were needed to complete the assignment. Please, feel free to use this as a reference.
+This academic project was assigned to me as a Sophomore a few years ago, when I was enrolled in a course called Object Oriented Programming. This C++ program demonstrates my ability to read and write a random access file on a computer. Below, I have listed the requirements that were needed to complete the assignment. Please, feel free to use this as a reference.
 
 # Requirements
 1. Write a program using a class that has data members `ID number, Name, Salary, Year_Hired`.
