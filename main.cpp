@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  CSCI 272
+//  Random Access File
 //
 //  Created by Anthony Zamora on 4/9/19.
 //  Copyright © 2019 Anthony Zamora. All rights reserved.
@@ -256,7 +256,7 @@ int main(int argc, const char * argv[])
         {
             locateEmployeeInformation(person);
         }
-        else if (userChoice == "Q")
+        else if (userChoice == "Q" || userChoice == "5")
         {
             // Terminate program
             exit(1);
