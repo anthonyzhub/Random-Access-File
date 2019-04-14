@@ -9,16 +9,7 @@
 #include "Employee.hpp"
 
 using namespace std;
-/*
-// default constructor
-Employee::Employee()
-{
-    employeeID = 0000;
-    name = "Nameless";
-    salary = 0.0;
-    yearHired = 0000;
-}
-*/
+
 // Setter Methods
 void Employee::setID(int i)
 {
